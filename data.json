@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "1735398817490",
+      "name": "Fruits",
+      "timeAdded": "2024-12-28T15:13:37.490Z"
+    },
+    {
+      "id": "1735399015101",
+      "name": "English",
+      "timeAdded": "2024-12-28T15:16:55.101Z"
+    },
+    {
+      "id": "1735399020698",
+      "name": "Russian",
+      "timeAdded": "2024-12-28T15:17:00.698Z"
+    }
+  ],
+  "words": [
+    {
+      "id": "1735400261537",
+      "word": "Apple",
+      "translation": "Jablko",
+      "categoryId": "1735399015101",
+      "memorized": true
+    },
+    {
+      "id": "1735400508961",
+      "word": "Apple",
+      "translation": "Jablko",
+      "categoryId": "1735399015101",
+      "isMemorized": false,
+      "timeAdded": "2024-12-28T15:41:48.961Z"
+    },
+    {
+      "id": "1735400516028",
+      "word": "Apple",
+      "translation": "Jablko",
+      "categoryId": "1735399015101",
+      "isMemorized": false,
+      "timeAdded": "2024-12-28T15:41:56.028Z"
+    }
+  ]
+}
